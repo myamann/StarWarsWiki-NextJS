@@ -8,9 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "lottie-web": "^5.7.6",
     "next": "10.0.7",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-lottie": "^1.2.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.4",
