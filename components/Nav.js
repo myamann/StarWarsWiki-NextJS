@@ -5,7 +5,7 @@ export default function Nav() {
   return (
     <div className="py-4 px-8 bg-gray-700 text-white flex justify-between">
       <div className="text-xl">
-        <Link href="/">Starwars Wiki</Link>
+        <Link href="/">StarWars Wiki</Link>
       </div>
       <div className="flex items-center">
         <div className="ml-8">
